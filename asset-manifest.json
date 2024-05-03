@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/crypto-vault/static/css/main.7d597e67.css",
-    "main.js": "/crypto-vault/static/js/main.f3b20c6e.js",
+    "main.css": "/crypto-vault/static/css/main.7bf8afb3.css",
+    "main.js": "/crypto-vault/static/js/main.224a4095.js",
+    "static/media/banner.jpg": "/crypto-vault/static/media/banner.9646e99b9737e81c2ba5.jpg",
     "index.html": "/crypto-vault/index.html",
-    "main.7d597e67.css.map": "/crypto-vault/static/css/main.7d597e67.css.map",
-    "main.f3b20c6e.js.map": "/crypto-vault/static/js/main.f3b20c6e.js.map"
+    "main.7bf8afb3.css.map": "/crypto-vault/static/css/main.7bf8afb3.css.map",
+    "main.224a4095.js.map": "/crypto-vault/static/js/main.224a4095.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d597e67.css",
-    "static/js/main.f3b20c6e.js"
+    "static/css/main.7bf8afb3.css",
+    "static/js/main.224a4095.js"
   ]
 }
