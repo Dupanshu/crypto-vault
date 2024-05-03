@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-vault/static/css/main.7d597e67.css",
+    "main.js": "/crypto-vault/static/js/main.f3b20c6e.js",
+    "index.html": "/crypto-vault/index.html",
+    "main.7d597e67.css.map": "/crypto-vault/static/css/main.7d597e67.css.map",
+    "main.f3b20c6e.js.map": "/crypto-vault/static/js/main.f3b20c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d597e67.css",
+    "static/js/main.f3b20c6e.js"
+  ]
+}
