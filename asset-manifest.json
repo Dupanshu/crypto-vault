@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/crypto-vault/static/css/main.fe3aa6e2.css",
-    "main.js": "/crypto-vault/static/js/main.c06ae698.js",
+    "main.css": "/crypto-vault/static/css/main.9f506d31.css",
+    "main.js": "/crypto-vault/static/js/main.bf257aab.js",
     "static/media/crypto.jpg": "/crypto-vault/static/media/crypto.0f892637278fcc65d294.jpg",
     "static/media/doge.jpg": "/crypto-vault/static/media/doge.637e44f3219ce201eb3b.jpg",
     "static/media/bit.jpg": "/crypto-vault/static/media/bit.22caa7c7d729492681b4.jpg",
     "static/media/banner.jpg": "/crypto-vault/static/media/banner.ce7d1f6e6f0177211ddb.jpg",
     "static/media/eth.jpg": "/crypto-vault/static/media/eth.8897f9ea8174a7337fe0.jpg",
     "index.html": "/crypto-vault/index.html",
-    "main.fe3aa6e2.css.map": "/crypto-vault/static/css/main.fe3aa6e2.css.map",
-    "main.c06ae698.js.map": "/crypto-vault/static/js/main.c06ae698.js.map"
+    "main.9f506d31.css.map": "/crypto-vault/static/css/main.9f506d31.css.map",
+    "main.bf257aab.js.map": "/crypto-vault/static/js/main.bf257aab.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe3aa6e2.css",
-    "static/js/main.c06ae698.js"
+    "static/css/main.9f506d31.css",
+    "static/js/main.bf257aab.js"
   ]
 }
